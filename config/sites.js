@@ -54,9 +54,8 @@ export default {
 			enabled: true,
 			description: "Replace these with the sites you want to measure.",
 			sites: [
-				{ name: "Eleventy", url: "https://www.11ty.dev/" },
-				{ name: "Speedlify", url: "https://www.speedlify.dev/" },
-				{ name: "zachleat.com", url: "https://www.zachleat.com/" },
+				{ name: "11ty", url: "https://rad-meringue-a5e2df.netlify.app" },
+				{ name: "svelte", url: "https://africanair-dev.netlify.app" },
 			],
 		},
 	},
