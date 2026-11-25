@@ -56,6 +56,8 @@ export default {
 			sites: [
 				{ name: "11ty", url: "https://rad-meringue-a5e2df.netlify.app" },
 				{ name: "svelte", url: "https://africanair-dev.netlify.app" },
+				{ name: "Angular", url: "https://deft-gelato-10245c.netlify.app" },
+				{ name: "React", url: "https://papaya-malabi-14ae69.netlify.app" },
 			],
 		},
 	},

@@ -1,0 +1,3 @@
+{"version":1,"url":"https://papaya-malabi-14ae69.netlify.app/","updated":"2026-11-25T10:09:45.663Z","points":[
+{"t":1795601222197,"lh":"13.6.0","performance":100,"accessibility":100,"best-practices":96,"seo":100,"lcp":790,"cls":0.001,"tbt":0,"fcp":790,"si":790,"ttfb":627,"total":205980,"requests":16,"bytes":0,"mainThreadMs":0,"unusedJsBytes":48084,"unusedCssBytes":0,"mainThreadTotal":256.8,"longTasks":0,"elements":59,"failingCount":0,"failingNodes":0,"axeViolations":2,"axePasses":127,"bench":4203.5,"runs":3,"reqRuns":3,"ms":163423,"spread":0}
+]}
